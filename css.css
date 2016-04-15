@@ -1,0 +1,62 @@
+
+body {
+width: 900px;
+
+background-image: url(http://www.quizz.biz/uploads/quizz/426552/5_jep8y.jpg);
+background-size: 1020px 1500px;
+background-opacity: 1.3;
+}
+
+
+
+h3 {
+color: red;
+text-align: center;
+font-family: Oswald;
+border: 2px solid #000000;
+border-radius: 5px 5px;
+
+}
+
+h2 {
+color: #DB0B32;
+text-align: center;
+text-decoration: underline;
+}
+
+p {
+color: Black;
+text-align: left
+font-family: "sans-serif";
+}
+
+#logo {
+width: 200px;
+height: 180px;
+margin-left: 800px;
+float: right;
+position:absolute;}
+
+#petit{
+width: 350px;
+height: 350px;
+margin-left: 750px;
+float: right;
+position:absolute;}
+
+
+
+
+li {
+color: blue;
+text-align: justify left;
+font-family: "Ubuntu"; }
+
+.premier {
+color:black;
+text-align: justify;
+font-family: "Sans-serif";
+float: left;
+display: block;
+}
+div {
